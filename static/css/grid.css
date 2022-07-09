@@ -1,0 +1,15 @@
+.p-width_12 {
+    max-width: 1160px;
+}
+.p-width_11 {
+    max-width: 1060px;
+}
+.p-width {
+    width: 100%;
+}
+.p-align_left {
+    text-align: left;
+}
+.p-align_center {
+    text-align: center;
+}

@@ -1,0 +1,320 @@
+.p-text {
+    font-family: 'futura-pt',Arial,sans-serif;
+    font-weight: 300;
+    color: #000000;
+}
+.p-text-white {
+    font-family: 'futura-pt',Arial,sans-serif;
+    font-weight: 300;
+    color: #ffffff;
+}
+
+.p-text_xxs {
+    font-size: 15px;
+    line-height: 1.55;
+}
+
+.p-text_xs {
+    font-size: 16px;
+    line-height: 1.55;
+}
+
+.p-text_sm {
+    font-size: 18px;
+    line-height: 1.55;
+}
+
+.p-text_md {
+    font-size: 20px;
+    line-height: 1.55;
+}
+
+.p-text_lg {
+    font-size: 22px;
+    line-height: 1.55;
+}
+
+.p-text_weight_plus {
+    font-weight: 400;
+}
+
+
+.p-text-impact {
+    font-family: 'futura-pt',Arial,sans-serif;
+    font-weight: 300;
+    color: #000000;
+}
+.p-text-impact-white {
+    font-family: 'futura-pt',Arial,sans-serif;
+    font-weight: 300;
+    color: #ffffff;
+}
+
+.p-text-impact_xs {
+    font-size: 26px;
+    line-height: 1.50;
+}
+
+.p-text-impact_sm {
+    font-size: 32px;
+    line-height: 1.35;
+}
+
+.p-text-impact_md {
+    font-size: 38px;
+    line-height: 1.35;
+}
+
+.p-text-impact_lg {
+    font-size: 42px;
+    line-height: 1.23;
+}
+
+
+.p-mark {
+    font-family: 'futura-pt',Arial,sans-serif;
+    font-weight: 600;
+    color: #000000;
+}
+.p-mark-white {
+    font-family: 'futura-pt',Arial,sans-serif;
+    font-weight: 600;
+    color: #ffffff;
+}
+.p-mark_xs {
+    font-size: 10px;
+    line-height: 1.35;
+}
+.p-mark_s {
+    font-size: 12px;
+    line-height: 1.35;
+}
+.p-mark_m {
+    font-size: 14px;
+    line-height: 1.35;
+}
+
+
+.p-name {
+    font-family: 'futura-pt',Arial,sans-serif;
+    font-weight: 500;
+    color: #000000;
+}
+.p-name-white {
+    font-family: 'futura-pt',Arial,sans-serif;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+.p-name_xxs {
+    font-size: 14px;
+    line-height: 1.35;
+}
+
+.p-name_xs {
+    font-size: 16px;
+    line-height: 1.35;
+}
+
+.p-name_sm {
+    font-size: 18px;
+    line-height: 1.35;
+}
+
+.p-name_md {
+    font-size: 20px;
+    line-height: 1.35;
+}
+
+.p-name_lg {
+    font-size: 22px;
+    line-height: 1.35;
+}
+
+.p-name_xl {
+    font-size: 24px;
+    line-height: 1.35;
+}
+
+
+.p-heading {
+    font-family: 'futura-pt',Arial,sans-serif;
+    font-weight: 600;
+    color: #000000;
+}
+.p-heading-white {
+    font-family: 'futura-pt',Arial,sans-serif;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+.p-heading_xs {
+    font-size: 26px;
+    line-height: 1.23;
+}
+
+.p-heading_sm {
+    font-size: 28px;
+    line-height: 1.17;
+}
+
+.p-heading_md {
+    font-size: 30px;
+    line-height: 1.17;
+}
+
+.p-heading_lg {
+    font-size: 32px;
+    line-height: 1.17;
+}
+
+
+.p-title {
+    font-family: 'futura-pt',Arial,sans-serif;
+    font-weight: 500;
+    color: #000000;
+}
+.p-title-white {
+    font-family: 'futura-pt',Arial,sans-serif;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+.p-title_xxs {
+    font-size: 14px;
+    line-height: 1.23;
+}
+
+.p-title_xs {
+    font-size: 16px;
+    line-height: 1.23;
+}
+
+.p-title_sm {
+    font-size: 18px;
+    line-height: 1.23;
+}
+
+.p-title_md {
+    font-size: 20px;
+    line-height: 1.23;
+}
+
+.p-title_lg {
+    font-size: 24px;
+    line-height: 1.23;
+}
+
+.p-title_xl {
+    font-size: 30px;
+    line-height: 1.17;
+}
+
+.p-title_xxl {
+    font-size: 36px;
+    line-height: 1.17;
+}
+
+
+.p-descr {
+    font-family: 'futura-pt',Arial,sans-serif;
+    font-weight: 300;
+    color: #000000;
+}
+.p-descr-white {
+    font-family: 'futura-pt',Arial,sans-serif;
+    font-weight: 300;
+    color: #ffffff;
+}
+
+.p-descr_xxs {
+    font-size: 14px;
+    line-height: 1.55;
+}
+
+.p-descr_xs {
+    font-size: 16px;
+    line-height: 1.55;
+}
+
+.p-descr_sm {
+    font-size: 18px;
+    line-height: 1.55;
+}
+
+.p-descr_md {
+    font-size: 20px;
+    line-height: 1.55;
+}
+
+.p-descr_lg {
+    font-size: 22px;
+    line-height: 1.55;
+}
+
+.p-descr_xl {
+    font-size: 24px;
+    line-height: 1.50;
+}
+
+.p-descr_xxl {
+    font-size: 26px;
+    line-height: 1.45;
+}
+
+.p-descr_xxxl {
+    font-size: 30px;
+    line-height: 1.45;
+    letter-spacing: 0.45;
+}
+
+
+.p-uptitle {
+    font-family: 'futura-pt',Arial,sans-serif;
+    font-weight: 600;
+    color: #000000;
+    letter-spacing: 2.5px;
+}
+.p-uptitle-white {
+    font-family: 'futura-pt',Arial,sans-serif;
+    font-weight: 600;
+    color: #ffffff;
+    letter-spacing: 2.5px;
+}
+
+.p-uptitle_xs {
+    font-size: 12px;
+}
+
+.p-uptitle_sm {
+    font-size: 14px;
+}
+
+.p-uptitle_md {
+    font-size: 16px;
+}
+
+.p-uptitle_lg {
+    font-size: 18px;
+}
+
+.p-uptitle_xl {
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+.p-uptitle_xxl {
+    font-size: 22px;
+    letter-spacing: 2px;
+}
+
+.p-uptitle_xxxl {
+    font-size: 24px;
+    letter-spacing: 2px;
+}
+
+.p-input-error {
+    font-family: 'futura-pt',Arial,sans-serif;
+    color: red;
+    font-size: 13px;
+}

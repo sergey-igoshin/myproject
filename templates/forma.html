@@ -1,0 +1,57 @@
+<div class="p-cover">
+    <div class="p-cover__carrier"></div>
+    <div class="p-cover__filter"></div>
+    <div class="p-start p-container">
+        <div class="p-cover__wrapper p-valign_middle">
+            <div class="p-start__wrapper">
+                <div class="p-col p-col_4 p-prefix_4">
+                    <div id="content_form">
+                        <div class="p-start__formwrapper">
+                            <div class="p-start__form-text">
+                                <div class="p-title_sm p-title p-align-center">
+                                    <p>Вход в панель управления</p>
+                                </div>
+                            </div>
+                            <form class="p-form">
+                                <div class="p-form__successbox p-text_xs p-text" style="display:none;"></div>
+                                <div class="p-form__inputsbox">
+                                    <div class="p-input-group p-input-group_lg">
+                                        <div class="p-input-block">
+                                            <input type="text" autocomplete="email" name="login" class="p-input" value="" placeholder="Login" data-tilda-rule="email">
+                                        </div>
+                                        <div class="p-input-error">Обязательное поле</div>
+                                    </div>
+                                    <div class="p-input-group p-input-group_ps">
+                                        <div class="p-input-block p-password">
+                                            <input type="password" id="password-input" name="password" class="p-input textInput" value="" placeholder="Password">
+                                            <a href="#" class="p-password-control"></a>
+                                        </div>
+                                        <div class="p-input-error">Обязательное поле</div>
+                                    </div>
+                                    <div class="p-form__errorbox-middle">
+                                        <div class="p-form__errorbox-wrapper" style="display:none;">
+                                            <div class="p-form__errorbox-text p-text p-text_xs">
+                                                <p class="p-form__errorbox"></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="p-form__submit" onclick="getUser()">
+                                        <div class="p-submit p-name_xs p-name-white">Вход</div>
+                                    </div>
+                                </div>
+                            </form>
+                            <div class="p-start__bg"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    
+<script>
+    $(document).ready(function(){
+        getLoad()
+        readyPage()
+    });
+</script>

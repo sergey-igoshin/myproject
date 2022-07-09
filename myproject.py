@@ -38,7 +38,10 @@ def index():
 
 @app.route('/login')
 def login():
-    return '<h1>LOGIN</h1>'
+    r = get_data_new_db(2)
+    if r['name'] != "Sergey":
+        return render_template('login.html')
+    return redirect(url_for('admin'))
 
 
 @app.route('/<string:user>', methods=['GET'])

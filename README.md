@@ -11,7 +11,8 @@
 - VSCode
 - SQLite 3
 - MySQL
-- mypythonsql
+- pymysql
+- flask-login-0.6.1
 
 ## Лицензия
 

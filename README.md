@@ -13,6 +13,8 @@
 - MySQL
 - pymysql
 - flask-login-0.6.1
+- WTForms-3.0.1 
+- flask_wtf-1.0.1
 
 ## Лицензия
 

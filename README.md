@@ -6,8 +6,8 @@
 
 ## Стек
 
-- Python > 3.10
-  - Flask < 2
+- Python 3.10
+- Flask
 - VSCode
 - SQLite 3
 - MySQL
